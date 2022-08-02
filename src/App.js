@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          It is a Shared React Component!
         </a>
       </header>
     </div>
